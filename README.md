@@ -1,4 +1,16 @@
-## Hi there 👋
+# Suharis Baihaqi
+**`Coder`**
+- 🌱 I'm interested in learning something new.
+- ☕️ In my free time I like gaming on my PC, watching movies and shows as well as reading. Also, I love coffee!
+
+---
+  
+<!--
+- 📜 Hi there! I'm a web developer working on web apps. I've worked several project for school and personal.
+- 🌱 I'm fascinated by technology and always interested in learning something new.
+- ☕️ In my free time I like gaming on my PC, watching movies and shows as well as reading. Also, I love coffee!
+- 📧 Email is the best way to get in touch with me: suharisbaihaqi7@gmail.com
+-->
 
 <!--
 **Har1z/Har1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
