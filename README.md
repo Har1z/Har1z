@@ -4,6 +4,8 @@
 - ☕️ In my free time I like gaming on my PC, watching movies and shows as well as reading. Also, I love coffee!
 
 ---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/433789106431066123)](https://discord.com/users/433789106431066123)
   
 <!--
 - 📜 Hi there! I'm a web developer working on web apps. I've worked several project for school and personal.
